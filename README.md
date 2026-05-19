@@ -28,3 +28,8 @@ Project specifications:
 - Database system: Shared Aurora RDS database
 - Application type: Web
 - Professional skill: Automated testing
+
+## Contributors
+* **Hayden Kaminsky** ([@frontend275](https://github.com))
+* **Will Gray** ([@will-a-gray](https://github.com))
+* **Alex Edwards** ([@Alex06916Alex06916](https://github.com))
