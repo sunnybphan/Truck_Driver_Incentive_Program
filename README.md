@@ -1,5 +1,4 @@
-# Team 15 Project
-
+# Team 15 Project - Truck_Driver_Incentive_Program
 Team 15's driver points distribution project
 
 Setup:
@@ -29,5 +28,3 @@ Project specifications:
 - Database system: Shared Aurora RDS database
 - Application type: Web
 - Professional skill: Automated testing
-# Truck_Driver_Incentive_Program
-# Truck_Driver_Incentive_Program
